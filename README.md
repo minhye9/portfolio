@@ -96,13 +96,22 @@ Coupang Eats - Python, Pycharm, Pytest, Appium, Allure, Github, Maven
 - QA팀 리딩
 - 생산성 향상 및 지식공유 목적으로 위키 작성 (테스트 수행 방법 및 툴 사용방법, 팁 등)
 #### Project :mag_right:
-- CloudPlex Media : Media Contents Transcoding, 관리, 방송 편성 및 송출 서비스 신규 런칭 및 운영 - [CloudPlex Media](https://cloudplex.megazone.io/)
+- CloudPlex Media : Media Contents 서비스 신규 런칭 및 운영 - [CloudPlex Media](https://cloudplex.megazone.io/)
+  - `Front-End / Admin : Contents Transcoding, 관리, 방송 편성 및 송출 테스트`
+  - `API : 전체 운영 채널에 대한 API 요청/응답 정상 동작 확인`
 - Megazone PoPs : 메가존 통합 Login Service 테스트 운영 - [Megazone PoPs](https://pops.megazone.com/)
-- CloudPlex Delivery : Multi CDN 서비스 웹 런칭 및 운영 (DNS 및 Storage, CDN 설정, Contents Upload, Purge, Compare 등)  - [CloudPlex Delivery](https://www.cloudgram.com/ko/nav.jsp?uuid=a4111aac773e4399b1d8fa55fcfa9f13)
-- Hyper Browser : Multi CDN 서비스 앱 운영 (DNS 및 Storage, CDN 설정, Contents Upload, Purge, Compare 등) - [Hyper Browser](https://www.megazone.com/hyper-solutions/hyper-browser/)
-- CloudPlex Desktop : VDI Service 사이트 POC (User, Group, Desktop 생성 및 관리 MVP 기능) - [CloudPlex Desktop](https://www.cloudgram.com/ko/nav.jsp?uuid=3ce2dbbaa8e74272bb5239f6e7da1022)
-- Hyper Log Stream : 로그 서비스 신규 런칭 및 운영 (Hyper Browser의 Activity Log 확인)
-- Hyper Launcher : 앱 런처 서비스 신규 런칭 및 운영 (앱 다운로드, 설치, 실행, 업데이트, 패치)
+  - `Front-End / Admin : SaaS 앱 사용 권한/사용자/앱 관리 및 통계, 접속 테스트`
+  - `UI Automation Test : Spint 배포 범위 및 Regression Test 자동화`
+- CloudPlex Delivery : Multi CDN 서비스 웹 런칭 및 운영 - [CloudPlex Delivery](https://www.cloudgram.com/ko/nav.jsp?uuid=a4111aac773e4399b1d8fa55fcfa9f13)
+  - `Front-End / Admin :DNS 및 Storage, CDN 설정, Contents Upload, Purge, Compare 테스트`
+- Hyper Browser : Multi CDN 서비스 앱 운영 - [Hyper Browser](https://www.megazone.com/hyper-solutions/hyper-browser/)
+  - `Front-End / Admin : DNS 및 Storage, CDN 설정, Contents Upload, Purge, Compare 테스트`
+- CloudPlex Desktop : VDI Service 사이트 POC - [CloudPlex Desktop](https://www.cloudgram.com/ko/nav.jsp?uuid=3ce2dbbaa8e74272bb5239f6e7da1022)
+  - `Front-End / Admin : User, Group, Desktop 생성 및 관리 MVP 기능 테스트`
+- Hyper Log Stream : 로그 서비스 신규 런칭 및 운영
+  - `Front-End / Admin : Hyper Browser의 Activity Log 확인 테스트`
+- Hyper Launcher : 앱 런처 서비스 신규 런칭 및 운영
+  - `Front-End / Admin : 앱 다운로드, 설치, 실행, 업데이트, 패치 테스트`
 <br/>
  
 ### 메가존, QA Team
@@ -161,7 +170,9 @@ Coupang Eats - Python, Pycharm, Pytest, Appium, Allure, Github, Maven
 - 테스트 케이스 작성, 외주 테스트 업체 관리
 #### Project :mag_right:
 - Daum 어학사전 : 사전 서비스 신규 런칭
+  - `Front-End : 검색 및 단어 상세 정보(표제어, 동의어, 반의어, 숙어, 관용어 등의 예문 등), 다양한 기능(북마크, 하이퍼링크, 하이라이트, 히스토리, 설정 등) 테스트`
 - 마이피플 : PC / Mobile App 채팅 서비스 운영
+  - `Front-End : 채팅 메시지 발신 및 수신, 그룹 채팅, 파일 공유, 푸시 알림 등 전반적인 기능 테스트`
 - 외주 테스트 업체 관리
 - 그 외 : Daum 지속가능 성장보고서 / Daum 지도 / Daum Apps / Daum Cloud 등 운영
 #### Tech Stack :baby_chick::baby_chick::baby_chick: 
@@ -180,9 +191,13 @@ Coupang Eats - Python, Pycharm, Pytest, Appium, Allure, Github, Maven
 - VOC 관리 : 홈페이지 및 각 스토어별 고객 피드백 취합하고 관리
 #### Project :mag_right:
 - DioPen 사상한글 : PDA에 한글 키패드를 제공하는 앱 신규 런칭
+  - `Front-End : 다양한 한글 조합과 자동완성, 맞춤법 검사 및 교정 등의 기능, 다양한 환경/키패드에서의 입력방식 전환 테스트`
 - MobiReader : Mobile OCR 명함인식 앱 운영
+  - `Front-End : 다양한 회사 및 디자인 데이터를 수집, 다양한 옵션 및 연락처 저장 형식에 따른 데이터 매핑 및 정보 유실 방지에 대한 다양한 테스트`
 - Diodict : Mobile 사전 앱 운영  - [Diodict](https://www.selvy.ai/dictionary)
+  - `Front-End : 검색 및 단어 상세 정보(표제어, 동의어, 반의어, 숙어, 관용어 등의 예문 등), 다양한 기능(북마크, 하이퍼링크, 하이라이트, 히스토리, 설정 등) 테스트`
 - Diostore : Global App Store 사이트 신규 런칭
+  - `Front-End : 회원 가입부터 로그인, 검색, 카트에 담기 및 구매, 체험판 및 정품 다운로드까지 모든 플로우에 대한 기기/브라우저별 호환성 테스트`
 #### Tech Stack :baby_chick::baby_chick::baby_chick: 
 - Tool : ddms,  Stress Test(Hopper Test, Monkey Test Tool), VM Ware, JIRA, BCS, WIKI
 <br/><br/><br/>
