@@ -35,6 +35,7 @@
   - `API : API 요청/응답 정상 동작 확인`
 - 상품 상세 페이지 : 상품 정보 위젯 관리 운영
   - `UI Automation Test : Regression Test 자동화`
+- 그 외 기획전/브랜드존/상품 상세페이지의 상품 정보 위젯 관리 관련 다양한 프로젝트 및 운영
 <br/>
 
 ### 쿠팡, Coupang Eats, Customer QA Team
@@ -70,6 +71,8 @@
   - `SQL 데이터 확인 : 로케일, 로그인, 디바이스 등의 정보 및 발송횟수 등의 접속정보 체크`
   - `API : 발송횟수 체크 및 초기화 확인`
   - `Graylog : 서버 내 일일 메시지 카운트 제한 및 오류 확인`
+- 그 외 회원/주소/쿠폰/카트 관련 다양한 프로젝트 및 운영
+
 #### Tech Stack :baby_chick::baby_chick::baby_chick: 
 - UI Automation Test : <br/>
 CMG - Java, IntelliJ, Selenium, TestNG, Extent Report, Github, Maven, Jenkins <br/>
