@@ -30,10 +30,11 @@
   - `API : 멤버형태별/디바이스별 상품 가격 속성 데이터 확인`
   - `Front-End : 상품의 특성(상품 타입/상태/할인종류/할인율 등)별/디바이스별 가격 확인`
 - 기획전/브랜드존 : Legacy server를 신규 server로 전환하는 프로젝트 런칭
-  - `DB 연동 API 변경, SPA(Single Page Application) 방식에서 SSR(Server-side Rendering) 방식으로 변경`
-  - `Admin : 기존 기능이 오류없이 정상 동작하는지 확인, 기존 서버와 신규 서버의 데이터 비교`
-  - `API : API 요청/응답 정상 동작 확인`
-  - `Front-End : 다양한 환경에서의 렌더링 동작 확인 및 기존 기능이 오류없이 정상 동작하는지 확인`
+  - `DB 연동 API 변경`
+    - `Admin : 기존 기능이 오류없이 정상 동작하는지 확인, 기존 서버와 신규 서버의 데이터 비교`
+    - `API : API 요청/응답 정상 동작 확인`
+  - `SPA(Single Page Application) 방식에서 SSR(Server-side Rendering) 방식으로 변경`
+    - `Front-End : 다양한 환경에서의 렌더링 동작 및 페이지 로딩 확인, 기존 기능이 오류없이 정상 동작하는지 확인`
 - 상품 상세 페이지 : 상품 정보 위젯 관리 운영
   - `UI Automation Test : Regression Test 자동화`
 - 그 외 기획전/브랜드존/상품 상세페이지의 상품 정보 위젯 관리 관련 다양한 프로젝트 및 운영
