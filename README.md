@@ -4,6 +4,8 @@
 - 다양한 도메인 레퍼런스 보유
 - Manual / UI / API 자동화 테스트 수행
 - QA 팀 리딩 및 외주 테스트 업체 관리
+<br/>
+- Linkedin profile : [LINK](https://www.linkedin.com/in/minhye9/)
 <br/><br/><br/>
 
 #### <img src="https://github.com/minhye9/portfolio/assets/25771521/e28e7845-9dad-43b9-8d64-44908f5d6f15" width="120" height="30" /> (2021.07 ~ 현재)
