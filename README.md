@@ -206,6 +206,23 @@ Coupang Eats - Python, Pycharm, Pytest, Appium, Allure, Github, Maven
 - Tool : ddms,  Stress Test(Hopper Test, Monkey Test Tool), VM Ware, JIRA, BCS, WIKI
 <br/><br/><br/>
 
+
+### Tools :hammer:
+---
+- 작업 / 이슈 관리 [JIRA](https://www.atlassian.com/pl/software/jira) / [Trello](https://trello.com/home)
+- 테스트 관리 : [Test Rail](https://www.testrail.com/)
+- 프로젝트 문서 정보 및 지식 공유 : [Confluence](https://www.atlassian.com/software/confluence)
+- 커뮤니케이션 : [Slack](https://slack.com/intl/ko-kr/)
+- 테스트 데이터 / TC 관리 : [Google Drive](https://chromewebstore.google.com/detail/apdfllckaahabafndbhieahigkjlhalf?hl=ko)
+- [Dev Tools](https://developer.chrome.com/docs/devtools?hl=ko)
+- [github](https://github.com/)
+- [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- API Test : [postman](https://www.postman.com/) / [Swagger UI](https://swagger.io/tools/swagger-ui/)
+- Python용 IDE : [Pycharm](https://www.jetbrains.com/pycharm/)
+- Java용 IDE : [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)
+- [Selenium](https://www.selenium.dev/)
+<br/><br/><br/>
+
 ### Certification :whale2::whale::dolphin:
 ---
 - ISTQB Certified Tester AI Testing(CT-AI) F/L / ISTQB / [LINK](https://www.istqb.org/certifications/artificial-inteligence-tester)
