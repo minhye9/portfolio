@@ -5,6 +5,7 @@
 - Manual / UI / API 자동화 테스트 수행
 - QA 팀 리딩 및 외주 테스트 업체 관리
 <br/>
+
 - Linkedin profile : [LINK](https://www.linkedin.com/in/minhye9)
 <br/><br/><br/>
 
